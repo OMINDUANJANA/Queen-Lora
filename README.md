@@ -50,7 +50,7 @@
   </a>
 </p>
 
-## AN tech bot Features
+## Queen Lora Bot Features
 
 | All Features 📢|Available ☑️|Version 🔎|
 | ------------- | ------------ | ---------- |
@@ -90,7 +90,7 @@
 පදනම:
 අසෙන; අසෙනා පරිශීලක බොට්,
 
-WhatsAsena - Asena Userbot යනු සංවර්ධනය සඳහා විවෘත මෘදුකාංගයකි.
+Queen Lora - Lor Userbot යනු සංවර්ධනය සඳහා විවෘත මෘදුකාංගයකි.
 වැරදි හෝ අනිසි ලෙස භාවිතා කිරීමෙන් ඇතිවිය හැකි සියලු ප්‍රතිවිපාක සඳහා පරිශීලකයා වගකිව යුතුය.
 එය විවෘත මූලාශ්‍ර ව්‍යාපෘතියක් බැවින් ඕනෑම කෙනෙකුට මෘදුකාංගය පිටපත් කිරීමට, එකතු කිරීමට සහ ඉවත් කිරීමට හැකිය,
 ඔවුන් අභිරුචිකරණය කරන ආකාරයට එය භාවිතා කරන්න. ඊට අමතරව, ප්ලග්-ඉන් සහාය පරිශීලකයින්ට සක්‍රීය කරයි
@@ -107,8 +107,8 @@ WhatsAsena - Asena Userbot යනු සංවර්ධනය සඳහා ව�
 
 > [Install Guide](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki/%F0%9F%87%AC%F0%9F%87%A7-How-to-Setup-WhatsAsena)
 
-## 🔎 What is AN Tech Bot?
-**AN Tech Bot,** is a WhatsApp helper bot.
+## 🔎 What is Queen Lora Bot?
+**Queen Lora Bot,** is a WhatsApp helper bot.
 
 ## Setup
 ### Very Simple Method
@@ -164,13 +164,13 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
 ## Developers
 
-[![Yusuf Usta](https://github.com/yusufusta.png?size=100)](https://quiec.tech) | [![Phaticusthiccy](https://github.com/phaticusthiccy.png?size=100)](https://github.com/phaticusthiccy) |[![Vai838](https://github.com/Vai838.png?size=100)](https://github.com/Vai838) |  [![Alperen Ç](https://github.com/xacnio.png?size=100)](https://github.com/xacnio) | [![Justin Thoms](https://github.com/justinthoms.png?size=100)](https://github.com/justinthoms) | [![CW4RR10R](https://github.com/CW4RR10R.png?size=100)](https://github.com/CW4RR10R)
+[![Black Alpha](https://github.com/yusufusta.png?size=100)](https://quiec.tech) | [![Phaticusthiccy](https://github.com/phaticusthiccy.png?size=100)](https://github.com/phaticusthiccy) |[![Vai838](https://github.com/Vai838.png?size=100)](https://github.com/Vai838) |  [![Alperen Ç](https://github.com/xacnio.png?size=100)](https://github.com/xacnio) | [![Justin Thoms](https://github.com/justinthoms.png?size=100)](https://github.com/justinthoms) | alpha[![CW4RR10R](https://github.com/CW4RR10R.png?size=100)](https://github.com/CW4RR10R)
 ----|----|----|----|----
 [Yusuf Usta](https://t.me/fusufs) | [Phaticusthiccy](https://github.com/phaticusthiccy) | [Alperen Ç](https://t.me/xacnio) | [justinthoms](https://t.me/Mr_justinthomas) | [CW4RR10R](https://github.com/CW4RR10R)
 Author, Base, Bug Fixes, Modules | Author, Base, Bug Fixes, Modules | Bug Fixes, Modules, Idea | Modules, Idea | Modules
 
 ## Thanks To
-- [@BlackAmda](https://github.com/BlackAmda) :)
+- [@Black Alpha](https://github.com/DarkKingbot) :)
 - [@adiwajshing](https://github.com/adiwajshing) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
 - [@itacirgabral](https://github.com/itacirgabral) for helps
 - `Ikarus#7808 (Discord)` for helps
