@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/93399269?v=4" width="480" height="360">
+  <img src="https://avatars.githubusercontent.com/u/93399269?v=4" width="300">
   <h1>Queen Lora</h1>
 </div>
 <p align="center">
@@ -124,8 +124,8 @@ Repl.it is less stable. Try Termux instead for qrcode generation.
 
 ### The Hard Method(Not Supported for this version!!)
 ```js
-$ git clone https://github.com/BlackAmda/AN-Tech-Bot
-$ cd AN-Tech-Bot
+$ git clone https://github.com/DarkKingbot/Queen-Lora.git
+$ cd Queen-Lora
 $ npm i
 $ nano Config.env
 // Config.env create and edit.
