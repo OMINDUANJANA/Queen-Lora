@@ -138,10 +138,10 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         await new Promise(r => setTimeout(r, 1100));
 
         if (config.LANG == 'SI' || config.LANG == 'TR') {
-            await conn.sendMessage(conn.user.jid, '*AN Tech Bot! 🐺*\n\n_කරුණාකර මෙහි commands නොකරන්න. මෙය ඔබගේ ලොග් අංකයයි._\n_ඔබට ඕනෑම චැට් එකක commands උත්සාහ කළ හැකිය :)_\n\n*AN Tech Bot භාවිතා කිරීම ගැන ස්තූතියි 💌*', MessageType.text);
+            await conn.sendMessage(conn.user.jid, '*Queen Lora Bot! 🐺*\n\n_කරුණාකර මෙහි commands නොකරන්න. මෙය ඔබගේ ලොග් අංකයයි._\n_ඔබට ඕනෑම චැට් එකක commands උත්සාහ කළ හැකිය :)_\n\n*Queen Lora Bot භාවිතා කිරීම ගැන ස්තූතියි 💌*', MessageType.text);
         }
         else {
-            await conn.sendMessage(conn.user.jid, '*AN Tech Bot Working! 🐺*\n\n_Please do not try plugins here. This is your LOG number._\n_You can try commands to any chat :)_\n\n*Thanks for using WhatsAsena 💌*', MessageType.text);
+            await conn.sendMessage(conn.user.jid, '*Queen Lora Bot Working! 🐺*\n\n_Please do not try plugins here. This is your LOG number._\n_You can try commands to any chat :)_\n\n*Thanks for using Queen Lora 💌*', MessageType.text);
         }
     });
     
@@ -240,7 +240,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     '*සිදුවූ දෝෂය:* ```' + error + '```\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*-- ERROR REPORT [WHATSASENA] --*' + 
+                                await conn.sendMessage(conn.user.jid, '*-- ERROR REPORT [Queen Lora] --*' + 
                                     '\n*WhatsAsena an error has occurred!*'+
                                     '\n_This error log may include your number or the number of an opponent. Please be careful with it!_' +
                                     '\n_You can write to our Telegram group for help._' +
