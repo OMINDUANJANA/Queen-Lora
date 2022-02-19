@@ -2,13 +2,13 @@
   "name": "WhatsAsenaDuplicated",
   "version": "0.16.0",
   "description": "WhatsAsena project - a Whatsapp userbot helping to improve your Whatsapp experience.",
-  "main": "./AN-Tech-Bot/bot.js",
+  "main": "./Queen-Lora/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BlackAmda/AN-Tech-Bot.git"
+    "url": "git+https://github.com/DarkKingbot/Queen-Lora.git"
   },
   "keywords": [
     "whatsapp"
@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/BlackAmda/AN-Tech-Bot/issues"
   },
-  "homepage": "https://github.com/BlackAmda/AN-Tech-Bot#readme",
+  "homepage": "https://github.com/DarkKingbot/Queen-Lora#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.4.1",
     "@lh2020/speedtest-net": "^2.1.1",
