@@ -72,7 +72,7 @@
             "MUST_TEXT": "```Cavab mətn olmalıdır```"
         },
         "heroku": {
-            "RESTART_DESC": "WhatsAsena-nı yenidən başladın",
+            "RESTART_DESC": "Qureen Lora-nı yenidən başladın",
             "RESTART_MSG": "```yenidən başladır ...```",
             "SHUTDOWN_DESC": "WhatsAsena-nı söndürün",
             "SHUTDOWN_MSG": "```söndürmək ⛔```",
