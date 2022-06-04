@@ -233,7 +233,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                         } catch (error) {
                             if (config.LANG == 'SI' || config.LANG == 'TR') {
                                 await conn.sendMessage(conn.user.jid, '*-- දෝෂ වාර්තාව [Queen Lora] --*' + 
-                                    '\n*AN Tech දෝෂයක් සිදුවී ඇත!*'+
+                                    '\n*Queen Lora දෝෂයක් සිදුවී ඇත!*'+
                                     '\n_මෙම දෝෂ ලොගයෙහි ඔබගේ අංකය හෝ ප්‍රති පාර්ශ්වයේ අංකය අඩංගු විය හැකිය. කරුණාකර එය සමග සැලකිලිමත් වන්න!_' +
                                     '\n_උදව් සඳහා ඔබට අපගේ whatsapp අංකයට ලිවිය හැකිය. https://wa.me/94760510568_' +
                                     '\n_මෙම පණිවිඩය ඔබගේ අංකයට තිබිය යුතුය._\n\n' +
@@ -241,7 +241,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     , MessageType.text);
                             } else {
                                 await conn.sendMessage(conn.user.jid, '*-- ERROR REPORT [Queen Lora] --*' + 
-                                    '\n*WhatsAsena an error has occurred!*'+
+                                    '\n*Queren Lora an error has occurred!*'+
                                     '\n_This error log may include your number or the number of an opponent. Please be careful with it!_' +
                                     '\n_You can write to our Telegram group for help._' +
                                     '\n_This message should have gone to your number (saved messages)._\n\n' +
